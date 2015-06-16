@@ -249,9 +249,9 @@
   <data name="Up.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADrwAAA68AZW8ckkAAABsSURBVDhP3ctBEoAgDENR7n9pxPajgG2Bcdz4NgxNkvIL
-        0TgJPhY701mLoGdcqT8QN8YTRQelqvtTCVEV94dwAYNrzHkZKx7LPPLigobjjOI4TqPGPNJHkVTBUX02
-        NlEVfxgXVByUqvG/IecD5G5D2fys9ecAAAAASUVORK5CYII=
+        YQUAAAAJcEhZcwAADrwAAA68AZW8ckkAAAB5SURBVDhPzZRBDsAgCAT9/6fbtBqlsAwm7aEcxZENrLTj
+        RTRg2x10QeY6ZkNfi6eRzCR4VRkp+QfMZOQXvEM6fsD7pOUJ7r2U745Ulp4ThuZflXk2BVxoU/SSPX0i
+        XQVWoznLhllHfmQS6Fz2Q35SuVTu/i8tinJBneRuQ9n+NzQXAAAAAElFTkSuQmCC
 </value>
   </data>
   <data name="Up.MinimumWidth" type="System.Int32, mscorlib">
@@ -272,9 +272,9 @@
   <data name="Down.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADrwAAA68AZW8ckkAAABrSURBVDhP3ctBEoAgDENR7n9prPQzQxFSHV35NgxNUuoL
-        87hIlLrwpyJRbX44Fkf3xZgkyqNdbGhsnJGOdaoaecTzECt/DOcbGIxjQyhRbcLHUNmg1M1/Q/GCeLA4
-        GeoDgmh9dWLmVJao9QCJWEPZmPpYGgAAAABJRU5ErkJggg==
+        YQUAAAAJcEhZcwAADrwAAA68AZW8ckkAAABwSURBVDhP3ZRRCsAwCEO9/6U3ijDaTJOAf/Wv1Fc1WuMZ
+        WAAb1NB5P3Mybw//++CsCIRwa3bhUucS3jVf0ncdInD2bAx3wa20Seaiok96ZzZhQs9ZNR5o+yzzZ79K
+        9kbDZfxyZeAy+P9QsmkYLBfUC4lYQ9nYrecsAAAAAElFTkSuQmCC
 </value>
   </data>
   <data name="Down.MinimumWidth" type="System.Int32, mscorlib">
@@ -823,9 +823,9 @@
   <data name="dataGridViewImageColumn1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADrwAAA68AZW8ckkAAABsSURBVDhP3ctBEoAgDENR7n9pxPajgG2Bcdz4NgxNkvIL
-        0TgJPhY701mLoGdcqT8QN8YTRQelqvtTCVEV94dwAYNrzHkZKx7LPPLigobjjOI4TqPGPNJHkVTBUX02
-        NlEVfxgXVByUqvG/IecD5G5D2fys9ecAAAAASUVORK5CYII=
+        YQUAAAAJcEhZcwAADrwAAA68AZW8ckkAAAB5SURBVDhPzZRBDsAgCAT9/6fbtBqlsAwm7aEcxZENrLTj
+        RTRg2x10QeY6ZkNfi6eRzCR4VRkp+QfMZOQXvEM6fsD7pOUJ7r2U745Ulp4ThuZflXk2BVxoU/SSPX0i
+        XQVWoznLhllHfmQS6Fz2Q35SuVTu/i8tinJBneRuQ9n+NzQXAAAAAElFTkSuQmCC
 </value>
   </data>
   <data name="dataGridViewImageColumn1.Width" type="System.Int32, mscorlib">
@@ -837,9 +837,9 @@
   <data name="dataGridViewImageColumn2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADrwAAA68AZW8ckkAAABrSURBVDhP3ctBEoAgDENR7n9prPQzQxFSHV35NgxNUuoL
-        87hIlLrwpyJRbX44Fkf3xZgkyqNdbGhsnJGOdaoaecTzECt/DOcbGIxjQyhRbcLHUNmg1M1/Q/GCeLA4
-        GeoDgmh9dWLmVJao9QCJWEPZmPpYGgAAAABJRU5ErkJggg==
+        YQUAAAAJcEhZcwAADrwAAA68AZW8ckkAAABwSURBVDhP3ZRRCsAwCEO9/6U3ijDaTJOAf/Wv1Fc1WuMZ
+        WAAb1NB5P3Mybw//++CsCIRwa3bhUucS3jVf0ncdInD2bAx3wa20Seaiok96ZzZhQs9ZNR5o+yzzZ79K
+        9kbDZfxyZeAy+P9QsmkYLBfUC4lYQ9nYrecsAAAAAElFTkSuQmCC
 </value>
   </data>
   <data name="dataGridViewImageColumn2.Width" type="System.Int32, mscorlib">
@@ -1815,31 +1815,37 @@
     <value>Map Tool</value>
   </data>
   <data name="loadWPFileToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>168, 22</value>
+    <value>179, 22</value>
   </data>
   <data name="loadWPFileToolStripMenuItem.Text" xml:space="preserve">
     <value>Load WP File</value>
   </data>
   <data name="loadAndAppendToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>168, 22</value>
+    <value>179, 22</value>
   </data>
   <data name="loadAndAppendToolStripMenuItem.Text" xml:space="preserve">
     <value>Load and Append</value>
   </data>
+  <data name="saveZEROTECHWPStripMenuItem2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 22</value>
+  </data>
+  <data name="saveZEROTECHWPStripMenuItem2.Text" xml:space="preserve">
+    <value>Save ITALDRON File</value>
+  </data>
   <data name="saveWPFileToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>168, 22</value>
+    <value>179, 22</value>
   </data>
   <data name="saveWPFileToolStripMenuItem.Text" xml:space="preserve">
     <value>Save WP File</value>
   </data>
   <data name="loadKMLFileToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>168, 22</value>
+    <value>179, 22</value>
   </data>
   <data name="loadKMLFileToolStripMenuItem.Text" xml:space="preserve">
     <value>Load KML File</value>
   </data>
   <data name="loadSHPFileToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>168, 22</value>
+    <value>179, 22</value>
   </data>
   <data name="loadSHPFileToolStripMenuItem.Text" xml:space="preserve">
     <value>Load SHP File</value>
@@ -2478,6 +2484,12 @@
     <value>loadAndAppendToolStripMenuItem</value>
   </data>
   <data name="&gt;&gt;loadAndAppendToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;saveZEROTECHWPStripMenuItem2.Name" xml:space="preserve">
+    <value>saveZEROTECHWPStripMenuItem2</value>
+  </data>
+  <data name="&gt;&gt;saveZEROTECHWPStripMenuItem2.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;saveWPFileToolStripMenuItem.Name" xml:space="preserve">

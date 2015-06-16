@@ -175,6 +175,7 @@
             this.fileLoadSaveToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.loadWPFileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.loadAndAppendToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.saveZEROTECHWPStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
             this.saveWPFileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.loadKMLFileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.loadSHPFileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -558,7 +559,6 @@
             this.panelWaypoints.ToolTipTextCloseIcon = null;
             this.panelWaypoints.ToolTipTextExpandIconPanelCollapsed = null;
             this.panelWaypoints.ToolTipTextExpandIconPanelExpanded = null;
-            this.panelWaypoints.ExpandClick += new System.EventHandler<System.EventArgs>(this.panelWaypoints_ExpandClick);
             // 
             // splitter1
             // 
@@ -1132,6 +1132,7 @@
             this.fileLoadSaveToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.loadWPFileToolStripMenuItem,
             this.loadAndAppendToolStripMenuItem,
+            this.saveZEROTECHWPStripMenuItem2,
             this.saveWPFileToolStripMenuItem,
             this.loadKMLFileToolStripMenuItem,
             this.loadSHPFileToolStripMenuItem});
@@ -1149,6 +1150,12 @@
             this.loadAndAppendToolStripMenuItem.Name = "loadAndAppendToolStripMenuItem";
             resources.ApplyResources(this.loadAndAppendToolStripMenuItem, "loadAndAppendToolStripMenuItem");
             this.loadAndAppendToolStripMenuItem.Click += new System.EventHandler(this.loadAndAppendToolStripMenuItem_Click);
+            // 
+            // saveZEROTECHWPStripMenuItem2
+            // 
+            this.saveZEROTECHWPStripMenuItem2.Name = "saveZEROTECHWPStripMenuItem2";
+            resources.ApplyResources(this.saveZEROTECHWPStripMenuItem2, "saveZEROTECHWPStripMenuItem2");
+            this.saveZEROTECHWPStripMenuItem2.Click += new System.EventHandler(this.saveZEROTECHWPStripMenuItem2_Click);
             // 
             // saveWPFileToolStripMenuItem
             // 
@@ -1426,5 +1433,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Dist;
         private System.Windows.Forms.DataGridViewTextBoxColumn AZ;
         private System.Windows.Forms.Label lbl_wpfile;
+        private System.Windows.Forms.ToolStripMenuItem saveZEROTECHWPStripMenuItem2;
     }
 }
